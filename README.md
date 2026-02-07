@@ -4,14 +4,14 @@ Small website about cats.
 <p>
   My cats are very <strong>interesting</strong> creatures. 
   Cats are generally considered
-  <a href="https://thevetdesk.com/pet-lifestyle/cats/how-intelligent-are-cats"/>intelligent.</a>
+  <a href="https://thevetdesk.com/pet-lifestyle/cats/how-intelligent-are-cats">intelligent.</a>
 
   But you wouldn't think that if you saw my cats. 
   They would do anything for food regardless if it puts them in danger. 
   My oldest cat, <strong>Nieve</strong>, dipped her paw in my soup, not thinking
   about how hot it was, and then ran away because she <strong>burned</strong> her paw. 
   Such a weird 
-  <a href="https://www.thesprucepets.com/weird-cat-behaviors-explained-553972"/>behavior.</a>
+  <a href="https://www.thesprucepets.com/weird-cat-behaviors-explained-553972">behavior.</a>
 
   She was fine moments later, but what made her think that was gonna work out for her? 
 </p>
